@@ -1,0 +1,15 @@
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\RepositoryPattern.ApplicationLayer.csproj.AssemblyReference.cache
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\RepositoryPattern.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\RepositoryPattern.ApplicationLayer.AssemblyInfoInputs.cache
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\RepositoryPattern.ApplicationLayer.AssemblyInfo.cs
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\RepositoryPattern.ApplicationLayer.csproj.CoreCompileInputs.cache
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\bin\Debug\net8.0\RepositoryPattern.ApplicationLayer.deps.json
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\bin\Debug\net8.0\RepositoryPattern.ApplicationLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\bin\Debug\net8.0\RepositoryPattern.ApplicationLayer.pdb
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\bin\Debug\net8.0\RepositoryPattern.DomainLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\bin\Debug\net8.0\RepositoryPattern.DomainLayer.pdb
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\Reposito.DE354B7C.Up2Date
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\RepositoryPattern.ApplicationLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\refint\RepositoryPattern.ApplicationLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\RepositoryPattern.ApplicationLayer.pdb
+D:\Learning Material\PilotProjects\RepositoryPattern.ApplicationLayer\obj\Debug\net8.0\ref\RepositoryPattern.ApplicationLayer.dll

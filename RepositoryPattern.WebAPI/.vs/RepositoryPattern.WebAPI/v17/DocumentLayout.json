@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A943FA-037D-4228-A32F-FC7612EE7894}|..\\RepositoryPattern.InfrastructureLayer\\RepositoryPattern.InfrastructureLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.infrastructurelayer\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|d:\\learning material\\pilotprojects\\repositorypattern.webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B30312B-EF42-4D29-A610-35F795254AF0}|..\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.applicationlayer\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C89545-E51B-4E74-8B04-53D214EDFB0F}|..\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.domainlayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|d:\\learning material\\pilotprojects\\repositorypattern.webapi\\middlewares\\employeeactionloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|solutionrelative:middlewares\\employeeactionloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|d:\\learning material\\pilotprojects\\repositorypattern.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B30312B-EF42-4D29-A610-35F795254AF0}|..\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.applicationlayer\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B30312B-EF42-4D29-A610-35F795254AF0}|..\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.applicationlayer\\services\\loghistoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|d:\\learning material\\pilotprojects\\repositorypattern.webapi\\repositorypattern.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|solutionrelative:repositorypattern.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|d:\\learning material\\pilotprojects\\repositorypattern.webapi\\controllers\\loghistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|solutionrelative:controllers\\loghistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B30312B-EF42-4D29-A610-35F795254AF0}|..\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.applicationlayer\\interfaces\\iloghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C89545-E51B-4E74-8B04-53D214EDFB0F}|..\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.domainlayer\\entities\\loghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A943FA-037D-4228-A32F-FC7612EE7894}|..\\RepositoryPattern.InfrastructureLayer\\RepositoryPattern.InfrastructureLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.infrastructurelayer\\repositories\\loghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C89545-E51B-4E74-8B04-53D214EDFB0F}|..\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.domainlayer\\interfaces\\iloghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808164915_AddLogHistoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|d:\\learning material\\pilotprojects\\repositorypattern.webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C89545-E51B-4E74-8B04-53D214EDFB0F}|..\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.domainlayer\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B30312B-EF42-4D29-A610-35F795254AF0}|..\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.applicationlayer\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A943FA-037D-4228-A32F-FC7612EE7894}|..\\RepositoryPattern.InfrastructureLayer\\RepositoryPattern.InfrastructureLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.infrastructurelayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B30312B-EF42-4D29-A610-35F795254AF0}|..\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.applicationlayer\\repositorypattern.applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C89545-E51B-4E74-8B04-53D214EDFB0F}|..\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.domainlayer\\repositorypattern.domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A943FA-037D-4228-A32F-FC7612EE7894}|..\\RepositoryPattern.InfrastructureLayer\\RepositoryPattern.InfrastructureLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.infrastructurelayer\\repositories\\departmentrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B30312B-EF42-4D29-A610-35F795254AF0}|..\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.applicationlayer\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|d:\\learning material\\pilotprojects\\repositorypattern.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CD491DB-EFD3-4FEF-8AB4-E178E95C2D92}|RepositoryPattern.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808105050_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A943FA-037D-4228-A32F-FC7612EE7894}|..\\RepositoryPattern.InfrastructureLayer\\RepositoryPattern.InfrastructureLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.infrastructurelayer\\repositorypattern.infrastructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C89545-E51B-4E74-8B04-53D214EDFB0F}|..\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.domainlayer\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C89545-E51B-4E74-8B04-53D214EDFB0F}|..\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj|d:\\learning material\\pilotprojects\\repositorypattern.domainlayer\\enums\\employeestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T13:15:14.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.InfrastructureLayer\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.InfrastructureLayer\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:12:52.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.DomainLayer\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.DomainLayer\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAADtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:08:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.ApplicationLayer\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.ApplicationLayer\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:35:44.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.ApplicationLayer\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.ApplicationLayer\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAADHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:19:33.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeActionLoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Middlewares\\EmployeeActionLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\EmployeeActionLoggingMiddleware.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Middlewares\\EmployeeActionLoggingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\EmployeeActionLoggingMiddleware.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAD4vy0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:27:59.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T07:07:01.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryPattern.WebAPI",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\RepositoryPattern.WebAPI.csproj",
+              "RelativeDocumentMoniker": "RepositoryPattern.WebAPI.csproj",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\RepositoryPattern.WebAPI.csproj",
+              "RelativeToolTip": "RepositoryPattern.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T07:27:04.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogHistoryService .cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Services\\LogHistoryService .cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.ApplicationLayer\\Services\\LogHistoryService .cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Services\\LogHistoryService .cs",
+              "RelativeToolTip": "..\\RepositoryPattern.ApplicationLayer\\Services\\LogHistoryService .cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:10:02.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILogHistoryService.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Interfaces\\ILogHistoryService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.ApplicationLayer\\Interfaces\\ILogHistoryService.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Interfaces\\ILogHistoryService.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.ApplicationLayer\\Interfaces\\ILogHistoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:08:47.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogHistory.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Entities\\LogHistory.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.DomainLayer\\Entities\\LogHistory.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Entities\\LogHistory.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.DomainLayer\\Entities\\LogHistory.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:44:35.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogHistoryController.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Controllers\\LogHistoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogHistoryController.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Controllers\\LogHistoryController.cs",
+              "RelativeToolTip": "Controllers\\LogHistoryController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:17:18.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogHistoryRepository.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Repositories\\LogHistoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.InfrastructureLayer\\Repositories\\LogHistoryRepository.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Repositories\\LogHistoryRepository.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.InfrastructureLayer\\Repositories\\LogHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:05:02.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILogHistoryRepository.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Interfaces\\ILogHistoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.DomainLayer\\Interfaces\\ILogHistoryRepository.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Interfaces\\ILogHistoryRepository.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.DomainLayer\\Interfaces\\ILogHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:03:21.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250808164915_AddLogHistoryTable.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808164915_AddLogHistoryTable.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808164915_AddLogHistoryTable.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808164915_AddLogHistoryTable.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808164915_AddLogHistoryTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:49:17.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:37:57.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.DomainLayer\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.DomainLayer\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:06:54.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.ApplicationLayer\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.ApplicationLayer\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:21:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.InfrastructureLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.InfrastructureLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:14:35.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RepositoryPattern.ApplicationLayer",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryPattern.ApplicationLayer\\RepositoryPattern.ApplicationLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T12:40:40.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositoryPattern.DomainLayer",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryPattern.DomainLayer\\RepositoryPattern.DomainLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T06:44:58.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentRespository.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Repositories\\DepartmentRespository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.InfrastructureLayer\\Repositories\\DepartmentRespository.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Repositories\\DepartmentRespository.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.InfrastructureLayer\\Repositories\\DepartmentRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:16:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.ApplicationLayer\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.ApplicationLayer\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.ApplicationLayer\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:19:50.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250808105050_Initial.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808105050_Initial.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808105050_Initial.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808105050_Initial.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.InfrastructureLayer\\Migrations\\20250808105050_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:50:51.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T10:21:19.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RepositoryPattern.InfrastructureLayer",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\RepositoryPattern.InfrastructureLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.InfrastructureLayer\\RepositoryPattern.InfrastructureLayer.csproj",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.InfrastructureLayer\\RepositoryPattern.InfrastructureLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryPattern.InfrastructureLayer\\RepositoryPattern.InfrastructureLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T06:58:33.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeStatus.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Enums\\EmployeeStatus.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.DomainLayer\\Enums\\EmployeeStatus.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Enums\\EmployeeStatus.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.DomainLayer\\Enums\\EmployeeStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T06:55:57.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryPattern.DomainLayer\\Entities\\Department.cs",
+              "ToolTip": "D:\\Learning Material\\PilotProjects\\RepositoryPattern.DomainLayer\\Entities\\Department.cs",
+              "RelativeToolTip": "..\\RepositoryPattern.DomainLayer\\Entities\\Department.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T06:50:25.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

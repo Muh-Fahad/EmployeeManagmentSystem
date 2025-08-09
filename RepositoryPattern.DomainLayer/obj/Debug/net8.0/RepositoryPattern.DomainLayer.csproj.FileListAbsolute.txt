@@ -1,0 +1,11 @@
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\bin\Debug\net8.0\RepositoryPattern.DomainLayer.deps.json
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\bin\Debug\net8.0\RepositoryPattern.DomainLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\bin\Debug\net8.0\RepositoryPattern.DomainLayer.pdb
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\obj\Debug\net8.0\RepositoryPattern.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\obj\Debug\net8.0\RepositoryPattern.DomainLayer.AssemblyInfoInputs.cache
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\obj\Debug\net8.0\RepositoryPattern.DomainLayer.AssemblyInfo.cs
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\obj\Debug\net8.0\RepositoryPattern.DomainLayer.csproj.CoreCompileInputs.cache
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\obj\Debug\net8.0\RepositoryPattern.DomainLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\obj\Debug\net8.0\refint\RepositoryPattern.DomainLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\obj\Debug\net8.0\RepositoryPattern.DomainLayer.pdb
+D:\Learning Material\PilotProjects\RepositoryPattern.DomainLayer\obj\Debug\net8.0\ref\RepositoryPattern.DomainLayer.dll

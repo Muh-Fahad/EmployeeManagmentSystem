@@ -1,0 +1,15 @@
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\RepositoryPattern.InfrastructureLayer.csproj.AssemblyReference.cache
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\RepositoryPattern.InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\RepositoryPattern.InfrastructureLayer.AssemblyInfoInputs.cache
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\RepositoryPattern.InfrastructureLayer.AssemblyInfo.cs
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\RepositoryPattern.InfrastructureLayer.csproj.CoreCompileInputs.cache
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\bin\Debug\net8.0\RepositoryPattern.InfrastructureLayer.deps.json
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\bin\Debug\net8.0\RepositoryPattern.InfrastructureLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\bin\Debug\net8.0\RepositoryPattern.InfrastructureLayer.pdb
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\bin\Debug\net8.0\RepositoryPattern.DomainLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\bin\Debug\net8.0\RepositoryPattern.DomainLayer.pdb
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\Reposito.1315AEF4.Up2Date
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\RepositoryPattern.InfrastructureLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\refint\RepositoryPattern.InfrastructureLayer.dll
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\RepositoryPattern.InfrastructureLayer.pdb
+D:\Learning Material\PilotProjects\RepositoryPattern.InfrastructureLayer\obj\Debug\net8.0\ref\RepositoryPattern.InfrastructureLayer.dll
